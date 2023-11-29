@@ -1,4 +1,3 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RomanRudin&count_private=true&theme=tokyonight&showicons=true)]()
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanRudin&langs_count=5&theme=tokyonight)]()
 
 <!--

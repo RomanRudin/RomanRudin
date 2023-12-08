@@ -1,6 +1,6 @@
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanRudin&layout=compact&langs_count=10&theme=radical&exclude_repo=)]()
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin)]()
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin)]()
 WakaTime stats since the start of December
 
 

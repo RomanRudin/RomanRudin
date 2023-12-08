@@ -1,4 +1,6 @@
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanRudin&layout=compact&langs_count=10&theme=radical&exclude_repo=)]()
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin)]()
+
 
 <!--
 **RomanRudin/RomanRudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

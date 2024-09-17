@@ -1,18 +1,14 @@
 
-<div id="WakaTimeStats" align=center>
-  [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=10&theme=transparent)]()
-</div>
+[![WakaTime stats since 29.11.2023](https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=10&theme=default&layout=compact&)]()
 
 <!-- GitHubStats from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card -->
-<div id="GitHubStats" align=center>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanRudin&theme=transparent)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanRudin&theme=transparent)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanRudin&theme=transparent)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanRudin&theme=transparent)
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanRudin&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanRudin&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanRudin&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanRudin&theme=transparent)
 
 <!-- Badges with contacts, that will have links to my social accounts -->
-<div id="Badges" align=center>
+<div id="Badges" align=center><!--
   <a href="">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
@@ -21,10 +17,10 @@
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="">
+  </a>-->
+  <!--<a href="">
     <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=Book&logoColor=white"/>
-  </a>
+  </a>-->
 </div>
 
 <!-- Div with technologies I know -->

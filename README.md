@@ -1,5 +1,7 @@
-<img width=100% height=250 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=10&theme=transparent&layout=compact" >
-<img width=100% height=210 align="center" src="https://github-readme-stats-vercel-fawn.vercel.app/api?username=RomanRudin&theme=transparent&show_icons=true&rank_icon=github&hide=contribs,issues&show=prs_merged_percentage&hide_rank=false" />
+<div aligh=center>
+  <img width=49% height=220 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=10&theme=transparent&layout=compact&hide_border=true" >
+  <img width=49% height=250 align="center" src="https://github-readme-stats-vercel-fawn.vercel.app/api?username=RomanRudin&theme=transparent&show_icons=true&rank_icon=github&hide=contribs,issues&show=prs_merged_percentage&hide_rank=false&hide_border=true" />
+</div>
 
 <!-- GitHubStats from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card -->
 <div aligh=center>

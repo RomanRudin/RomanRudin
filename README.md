@@ -1,11 +1,11 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=10&theme=transparent&layout=compact" />
-<img align="center" src="https://github-readme-stats-vercel-fawn.vercel.app/api?username=RomanRudin&theme=transparent&show_icons=true&rank_icon=github&hide=contribs,issues&show=prs_merged_percentage&hide_rank=false" />
+<img width=100% height=250 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=10&theme=transparent&layout=compact" >
+<img width=100% height=210 align="center" src="https://github-readme-stats-vercel-fawn.vercel.app/api?username=RomanRudin&theme=transparent&show_icons=true&rank_icon=github&hide=contribs,issues&show=prs_merged_percentage&hide_rank=false" />
 
 <!-- GitHubStats from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card -->
 <div aligh=center>
-  <img width=40% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanRudin&theme=transparent" />
-  <img width=40% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanRudin&theme=transparent" />
-  <!--![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanRudin&theme=transparent)-->
+  <img width=32% height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanRudin&theme=transparent" />
+  <img width=32% height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanRudin&theme=transparent" />
+  <img width=32% height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanRudin&theme=transparent" />
 </div>
 
 <!-- Badges with contacts, that will have links to my social accounts -->

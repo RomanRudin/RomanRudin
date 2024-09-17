@@ -1,11 +1,48 @@
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanRudin&layout=compact&langs_count=10&theme=radical&exclude_repo=)]()
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=6)]()
+
+<div id="WakaTimeStats" align=center>
+  [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=10&theme=transparent)]()
+</div>
+
+<!-- GitHubStats from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card -->
+<div id="GitHubStats" align=center>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanRudin&theme=transparent)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanRudin&theme=transparent)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanRudin&theme=transparent)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanRudin&theme=transparent)
+</div>
+
+<!-- Badges with contacts, that will have links to my social accounts -->
+<div id="Badges" align=center>
+  <a href="">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/VK-darkblue?style=for-the-badge&logo=VK&logoColor=white"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=Book&logoColor=white"/>
+  </a>
+</div>
+
+<!-- Div with technologies I know -->
+<!--
+<div id="Technologies" align=center>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue" width="40" height="40"/>
+</div>
+-->
 
 <!--
 **RomanRudin/RomanRudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

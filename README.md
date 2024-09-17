@@ -2,10 +2,10 @@
 [![WakaTime stats since 29.11.2023](https://github-readme-stats.vercel.app/api/wakatime?username=RomanRudin&langs_count=10&theme=transparent&layout=compact&)]()
 
 <!-- GitHubStats from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanRudin&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanRudin&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanRudin&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanRudin&theme=transparent)
+![](github-readme-stats-vercel-fawn.vercel.app/api/cards/repos-per-language?username=RomanRudin&theme=transparent)
+![](github-readme-stats-vercel-fawn.vercel.app/api/cards/stats?username=RomanRudin&theme=transparent)
+![](github-readme-stats-vercel-fawn.vercel.app/api/cards/most-commit-language?username=RomanRudin&theme=transparent)
+![](github-readme-stats-vercel-fawn.vercel.app/api/cards/productive-time?username=RomanRudin&theme=transparent)
 
 <!-- Badges with contacts, that will have links to my social accounts -->
 <div id="Badges" align=center><!--

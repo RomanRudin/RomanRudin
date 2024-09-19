@@ -12,7 +12,7 @@
 
 <!-- Badges with contacts, that will have links to my social accounts -->
 <div id="Badges" align=center>
-  <a href="t.me/romanrudin">
+  <a href="https://t.me/romanrudin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
   <a href="https://vk.com/rrudin">

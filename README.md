@@ -11,13 +11,13 @@
 </div>
 
 <!-- Badges with contacts, that will have links to my social accounts -->
-<div id="Badges" align=center><!--
-  <a href="">
+<div id="Badges" align=center>
+  <a href="t.me/romanrudin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://vk.com/rrudin">
     <img src="https://img.shields.io/badge/VK-darkblue?style=for-the-badge&logo=VK&logoColor=white"/>
-  </a>
+  </a><!--
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>-->
